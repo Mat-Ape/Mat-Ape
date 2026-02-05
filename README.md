@@ -39,11 +39,12 @@ md
 
   <br/><br/>
 
+<div align="center">
   <img
     src="https://github-readme-stats.vercel.app/api?username=Mat-Ape&show_icons=true&hide_border=true&bg_color=0b0f0b&title_color=39FF14&text_color=C8C8C8&icon_color=39FF14"
     height="165"
   />
-
+  &nbsp;&nbsp;&nbsp;
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mat-Ape&layout=compact&hide_border=true&bg_color=0b0f0b&title_color=39FF14&text_color=C8C8C8"
     height="165"
