@@ -3,22 +3,7 @@
      =========================== -->
 ## K lo k 👋
 
-<div align="center">
-  <img
-    src="https://github.com/Mat-Ape/Mat-Ape/blob/main/c59ad2bd4ad2fbacd04017debc679ddb.gif"
-    width="100%"
-    alt=""
-  />
-</div>
-
 <!-- ===== BANNER ===== -->
-<div align="center">
-  <img
-    src="https://github.com/Mat-Ape/Mat-Ape/blob/main/images.steamusercontent.gif"
-    alt="Nyan Cat"
-    width="100%"
-  />
-
   <img
     src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
     width="100%"
