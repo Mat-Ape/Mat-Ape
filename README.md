@@ -64,7 +64,6 @@ md
 ```bash
 ┌──(mat-ape㉿dojo)-[~/skills]
 └─$ tree
-.
 ├── Recon
 ├── Web
 ├── PrivEsc
